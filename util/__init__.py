@@ -1,0 +1,1 @@
+"""Shared utility functions for Advent of Code solutions."""
