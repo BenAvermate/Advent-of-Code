@@ -49,5 +49,4 @@ htmlcov/
 *.pyo
 
 # Advent of Code specific files
-data/
 test/
