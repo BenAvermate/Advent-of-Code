@@ -2,6 +2,8 @@
 
 This repository contains my Python solutions for Advent of Code puzzles with an easy to use cli runner.
 
+This is an revamped version and I will port over my old solutions when I feel like it.
+
 ## Layout
 
 - `AoC.py` runs solutions and creates new solution files.
